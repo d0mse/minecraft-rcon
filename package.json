@@ -1,0 +1,22 @@
+{
+  "name": "minecraft-rcon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.6.3",
+    "discord.js": "^14.11.0",
+    "isomorphic-fetch": "^3.0.0",
+    "lib": "^5.0.1",
+    "modern-rcon": "^1.0.3",
+    "node-fetch": "^3.3.1",
+    "rcon": "^1.1.0",
+    "rcon-client": "^4.2.3"
+  }
+}
